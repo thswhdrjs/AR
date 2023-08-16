@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Volumetic Second.unity
+    guid: 866d2a9b6149af944a7c7574d079545d
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e3da8869f6f237b489147bd65d5c9008,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: df246d5adb4c4aa4089d6024825b3f1a,
+      type: 2}
